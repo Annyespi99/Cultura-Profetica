@@ -179,6 +179,7 @@ header{
     grid-template-areas: listen-online;
     
 }
+
 .footer .listen-online i{
     color: #f8e8c9;
 
@@ -187,7 +188,9 @@ header{
 
 .footer .listen-online h2{
     padding-left: 5px;
+    color: antiquewhite;
 }
+
 
 .footer i:hover{
     text-shadow: 1px 1px 5px #f8e8c9;
